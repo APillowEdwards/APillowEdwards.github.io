@@ -1,0 +1,85 @@
+Name	Alias	Rarity	Name 2	Alias 2	
+Command Tower		common	
+Exotic Orchard		rare	
+Seaside Citadel		uncommon	
+Sunpetal Grove		rare	
+Glacial Fortress		rare	
+Hinterland Harbor		rare	
+Yavimaya Coast		rare	
+Bountiful Promenade		rare	
+Sea of Clouds		rare	
+Rejuvenating Springs		rare	
+Prismatic Vista		rare	
+Hallowed Fountain		rare	
+Breeding Pool		rare	
+Temple Garden		rare	
+Castle Ardenvale		rare	
+Lumbering Falls		rare	
+Forest		common	
+Island		common	
+Plains		common	
+The Spring Court's Respite	Bala Ged Recovery	uncommon	Tamlin’s Estate	Bala Ged Sanctuary	uncommon	
+Sol Ring		uncommon	
+Illyrian Siphon	Arcane Signet	common	
+Birds of Paradise		rare	
+Llanowar Elves		common	
+Elvish Mystic		common	
+Sylvan Caryatid		rare	
+Mortal Farmer	Avacyn’s Pilgrim	common	
+Farseek		common	
+Rampant Growth		common	
+Nature's Lore		uncommon	
+Three Visits		common	
+Beast Whisperer		rare	
+Garruk's Uprising		uncommon	
+Scion of Rhysand	Scion of Oona	rare	
+House of Wind Spirit	Mulldrifter	common	
+Cloudblazer		uncommon	
+Loyal Illyrian	Loyal Drake	uncommon	
+Harmonize		uncommon	
+The Spymaster's Web	Coastal Piracy	uncommon	
+Shamanic Revelation		rare	
+Elain, Garden Tender	Bennie Bracks, Zoologist	rare	
+Locked Inside	Swords to Plowshares	uncommon	
+Sent Across the Wall	Path to Exile	uncommon	
+Beast Within		uncommon	
+Tamlin's Provision	Generous Gift	uncommon	
+"Don't Move"	Counterspell	uncommon	
+Negate		common	
+Feyre's Denial	Arcane Denial	common	
+Rhysand's Protection	Dawn’s Truce	rare	
+Reclamation Sage		uncommon	
+Knight of Autumn		rare	
+Adrix and Nev, Twincasters		mythic	
+Woodland Doe	Good-Fortune Unicorn	uncommon	
+Loyal Guardian		uncommon	
+Reflector Mage		uncommon	
+Tranquil Frillback		rare	
+Thragtusk		rare	
+Illyrian Guardian	Selfless Spirit	rare	
+Mortal Land Hound	Selfless Savior	uncommon	
+Illyrian Formation	Faerie Formation	rare	
+Spring Court Tender	Tendershoot Dryad	rare	
+Alis, Keeper of the Woodland	Jaheira, Friend of the Forest	rare	
+Doubling Season		rare	
+Swiftfoot Boots		uncommon	
+Lightning Greaves		uncommon	
+The Middengard Wyrm	End-Raze Forerunners	rare	
+Inspiring Call		uncommon	
+Eternal Witness		uncommon	
+Cultivate		common	
+Kodama's Reach		common	
+Sylvan Scrying		uncommon	
+Velaris Seer	Faerie Seer	common	
+Night Court Informant	Mischievous Mystic	uncommon	
+Velaris Spellweaver	Murmuring Mystic	uncommon	
+Morrigan, Shield of the Court	Shalai, Voice of Plenty	rare	
+Shadow-Bound Host	Welcoming Vampire	rare	
+Welcome to Velaris	Tocasia's Welcome	rare	
+Painted into Life	Intangible Virtue	uncommon	
+Fall of Hybern	Hour of Reckoning	rare	
+Champion of Lambholt		rare	
+Inspiring Statuary		rare	
+Night Court Herald	Faerie Harbinger	uncommon	
+Cryptolith Rite		rare	
+Feyre, High Lady of Prythian		common	
